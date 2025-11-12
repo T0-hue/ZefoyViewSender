@@ -1,5 +1,5 @@
 {
-    "video_url": "https://www.tiktok.com/@rozhak_official/video/7502991464213892370",
+    "video_url": "https://vm.tiktok.com/ZNdKs1fTn/",
     "max_retries": 5,
     "wait_times": {
         "element_timeout": 10,
@@ -13,4 +13,5 @@
         "background_monitoring": true,
         "monitoring_interval": 15
     }
+
 }
